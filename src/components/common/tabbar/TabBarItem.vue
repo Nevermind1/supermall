@@ -43,9 +43,17 @@
 		font-size: 14px;
 	}
 	.tab-bar-item img{
+    /* width: 15px; */
 		margin-top: 3px;
 		vertical-align: middle;
 		margin-bottom: 2px;
 	}
+
+  /* .tab-bar-item img {
+    width: 1.024rem;
+    height: 1.024rem;
+    margin-top: 0.126rem;
+    vertical-align: middle;
+  } */
 
 </style>

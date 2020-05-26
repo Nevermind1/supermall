@@ -17,4 +17,7 @@
 </script>
 <style>
 @import url("assets/css/base.css");
+#app{
+  /* width: 100%; */
+}
 </style>
